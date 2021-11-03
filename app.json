@@ -1,0 +1,6 @@
+{
+  "name": "Talk-about--tg-bot",
+  "description": "Telegram bot",
+  "image": "heroku/python",
+  "keywords": ["python", "django" ]
+}
