@@ -1,0 +1,10 @@
+requests
+pyowm==2.10.0
+apiai
+gtts
+moviepy
+SpeechRecognition
+python-telegram-bot
+pydub
+django
+django-heroku
