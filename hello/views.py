@@ -1,6 +1,6 @@
 import os
 import random
-import datetime
+from datetime import datetime
 from re import I
 import requests
 import pyowm
