@@ -5,7 +5,7 @@
 #### Install requirements
 pip3 install -r requirements.txt
 #### Export tokens
-export TG_BOT_TOKEN=xxxx
+export TG_BOT_TOKEN=xxxx  
 export OWM_TOKEN=xxxx
 #### Run
 python3 manage.py runserver
